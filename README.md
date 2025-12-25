@@ -5,7 +5,7 @@ Thank you for navigating to this page! This is an alternative place to download 
 You can navigate to our website to learn more about the project. www.keyclickr.com
 
 ## Code
-Clickr is FOSS (free and open source software). For those who are curious, check out the codebase here: https://capstone.cs.utah.edu/clickr or here https://github.com/clickrTeam
+Clickr is FOSS (free and open source software) for complete keyboard remapping and customization. For those who are curious, check out the codebase here: https://capstone.cs.utah.edu/clickr or here https://github.com/clickrTeam
 
 ### Instructions
 The AppImages here are for Linux only. They have been tested to work on Ubuntu and MXLinux.
